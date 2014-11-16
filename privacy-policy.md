@@ -83,4 +83,4 @@ Should the ownership of Otaku Seek ever change the personal information collecte
 
 ## Changes to this policy
 
-This policy will occasionally be amended as new functionality is implemented or our policies changes. The source for our policies and all changes to them for is hosted on GitHub. We recommend you use the functionality on this service to monitor and inform yourself of all changes to our policies.
+This policy will occasionally be amended as new functionality is implemented or our policies changes. The source for our policies and all changes to them for is hosted on GitHub at [github.com/otakuseek/policy](https://github.com/otakuseek/policy). We recommend you use the functionality on this service to monitor and inform yourself of all changes to our policies.
