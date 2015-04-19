@@ -35,6 +35,12 @@ We may use these emails:
 
 The exact list of things we use emails for may change over time, but we will never abuse them for the purposes of sending what would be considered spam and we will not sell or share these email addresses with third-parties.
 
+### Profile photos and avatars
+
+Your account may have profile photos tied to it. These images are used as part of your interactions with other users on the site and considered public information. Please do not upload private images you do not wish to show others.
+
+Please note that cleanup of old images is done in batch jobs after a delay. If you need something private removed immediately please contact us directly. Please remember to copy the URL of the image you need removed and include it in your request. Actions such as changing your avatar may remove the link that lets us know what image belonged to your account.
+
 ### IP Address
 
 In the future, when you take actions such as logging in or submitting something we may collect the IP Address you made the action from to associate it with the action for security and abuse purposes.
