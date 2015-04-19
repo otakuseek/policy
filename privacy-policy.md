@@ -37,7 +37,7 @@ The exact list of things we use emails for may change over time, but we will nev
 
 ### IP Address
 
-In the future, when you take actions such as logging in we may collect the IP Address you made the action from an associate it with the action.
+In the future, when you take actions such as logging in or submitting something we may collect the IP Address you made the action from to associate it with the action for security and abuse purposes.
 
 ## Cookies
 
