@@ -43,7 +43,7 @@ Please note that cleanup of old images is done in batch jobs after a delay. If y
 
 ### IP Address
 
-In the future, when you take actions such as logging in or submitting something we may collect the IP Address you made the action from to associate it with the action for security and abuse purposes.
+In the future, when you take actions such as logging in or submitting something we may collect your IP Address and associate it with that activity for security and abuse prevention purposes.
 
 ## Cookies
 
